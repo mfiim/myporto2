@@ -1,0 +1,119 @@
+{
+    "main": {
+        "name" : "M Fajar Islam Imam M",
+        "description": "I am a programmer",
+        "image":"pp.jpg",
+        "github":"https://github.com/mfiim",
+        "project":"https://github.com/mfiim",
+        "bio": "Halo Nama Saya Muhammad Fajar Islam Imam Mujahid, Saya Kelahiran 2004 | Saya Suka Belajar Banyak tentang Teknologi Sofware Developmnet Dan Android Developmnet ",
+        "contactmessage":"Hello, here I am",
+        "email": "fajar12345678905@gmail.com",
+        "phone": "0821-2203-9129",
+        "address":{
+            "street":"Jl Cabe Raya V",
+            "city":"Tanggerang Selatan",
+            "state":"West Java",
+            "zip": "15408"
+        },
+        "website": "https://github.com/mfiim",
+        "resumedownload":"https://github.com/mfiim",
+        "social":[
+          {
+            "name": "https://github.com/mfiim",
+            "url": "https://www.https://github.com/mfiim.com/m.f.i.i.m",
+            "className": "fa fa-https://github.com/mfiim"
+          },
+          {
+            "name":"twitter",
+            "url":"http://twitter.com",
+            "className":"fa fa-twitter"
+          },
+          {
+            "name":"linkedin",
+            "url":"https://www.linkedin.com/in/mutia-rahmatun-husna/",
+            "className":"fa fa-linkedin"
+          },
+          {
+            "name":"instagram",
+            "url":"http://instagram.com/mutia.rahmatun",
+            "className":"fa fa-instagram"
+          },
+          {
+            "name":"github",
+            "url":"https://github.com/mfiim",
+            "className":"fa fa-github"
+          }
+        ]
+    },
+    "resume" : {
+        "skillmessage":"",
+        "education" : [
+            {
+                "school": "Universitas Negeri Jakarta",
+                "degree": "Information Systems and Technology",
+                "graduated": "Still College",
+                "description" : "I am joining Intership Ministry of Education"
+            },
+            {
+                "school": "SMA School of Universe",
+                "degree": "Science",
+                "graduated": "May 2019",
+                "description": "I am joining computer olympiad"
+            }
+        ],
+        "intership": [
+            {
+                "company" : "Pustikom State of University",
+                "title" : "Software Engineer",
+                "years": "March 2022 - May 2022",
+                "description": "Creating a website and maintenance"
+            }, {
+                "company": "Hactiv8",
+                "title": "Frontend Engineer",
+                "years": "August 2023 - present",
+                "description": "Creating a mobile application"
+            }
+        ],
+        "skills": [
+            {
+                "name" : "Java",
+                "level": "60%"
+            },
+            {
+                "name": "Python",
+                "level": "70%"
+            },
+            {
+                "name": "ReactJS",
+                "level": "85%"
+            },
+           
+            {
+                "name": "PHP",
+                "level": "60%"
+            }
+        ]
+    },
+    "portfolio":{
+        "projects": [
+            {
+                "title": "Auctionery (Apps)",
+                "category": "My travel blog for my post-university",
+                "image": "logo.jpg",
+                "url": "https://www.gojek.com"
+            },
+            {
+                "title":"Indonesia IT (Web)",
+                "category":"(offline now) A fighting gear company I started",
+                "image":"it.jpg",
+                "url":"http://www.timbakerdev.com"
+              },
+            {
+                "title":"Flowguise (Web)",
+                "category":"(offline now) A fighting gear company I started",
+                "image":"fg.jpg",
+                "url":"http://www.timbakerdev.com"
+              }
+        ]
+    }
+}
